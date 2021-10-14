@@ -2,12 +2,6 @@
 %% Tutorial to simulate and save the handled dataset, and temperature (T),  
 %% global horizontal irradiance (GHI) and wind speed (WS) dataset
 
-% This algorithm consists of a weather data conversion of the  
-% weather_dataset.xlsx to .mat/.dat. This algorithm was developed based on  
-% the research article “Management of an island and grid-connected microgrid 
-% using hybrid economic model predictive control with weather data",
-% https://doi.org/10.1016/j.apenergy.2020.115581
-
 % Requirements:
 
 % Matlab 2016a or later
